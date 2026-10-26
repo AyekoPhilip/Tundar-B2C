@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+data/
+*.credential.xml
+node_modules/
+*.private.txt
+*.zip
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
